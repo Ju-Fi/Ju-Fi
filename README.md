@@ -1,5 +1,15 @@
-### Hi there 👋
+### Hallo 👋
+- I'm 15
+- Aspiring software engineer
+- I'm largely familiar with Java, Python, and C (in that order lmao)
+- User of Linux
+- Actively committed repos are my current projects
 
+#### Linux stats
+- **Window Manager**: dwm
+- **Distro**: Arch
+
+I am accessible via Discord (Jurassic#1119) and Twitter (@FighterJurassic).
 <!--
 **Jurassic-Fighter/Jurassic-Fighter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
