@@ -13,7 +13,7 @@
 I am accessible via Discord (Jurassic#1119) and Twitter (@FighterJurassic).
 
 <div align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jurassic-Fighter&hide=python&layout=compact"></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jurassic-Fighter&hide=python&layout=compact&theme=github_dark"></a>
 </div>
 
 <!--
