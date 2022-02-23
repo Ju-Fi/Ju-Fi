@@ -8,7 +8,7 @@
 
 #### Linux stats
 - **Window Manager**: dwm
-- **Distro**: Arch
+- **Distro**: Void
 
 I am accessible via Discord (Jurassic#1119) and Twitter (@FighterJurassic).
 
