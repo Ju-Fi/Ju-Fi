@@ -1,9 +1,8 @@
 ### Hallo 👋
 - I'm 15
 - Aspiring software engineer
-- I'm largely familiar with Java, Python, and C (in that order lmao)
+- I'm largely familiar with Java, Python, and C.
 - User of Linux
-- Actively committed repos are my current projects
 - Pronouns: He/Him
 
 #### Linux stats
