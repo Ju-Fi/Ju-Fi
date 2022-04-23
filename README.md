@@ -1,13 +1,9 @@
 ### Hallo 👋
-- I'm 15
-- Aspiring software engineer
-- I'm largely familiar with Java, Python, and C.
-- User of Linux
-- Pronouns: He/Him
+I am an aspiring software engineer who is currently a sophomore in high school. 
+I'm familiar with Java, Python and C, and currently learning Clojure.
+I'm also a Linux and OSS enthusiast.
 
-#### Linux stats
-- **Window Manager**: dwm
-- **Distro**: Void
+**Pronouns:** he/him
 
 I am accessible via Discord (Jurassic#1119) and Twitter (@FighterJurassic).
 
