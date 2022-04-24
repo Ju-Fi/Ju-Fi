@@ -8,9 +8,12 @@ I'm also a Linux and OSS enthusiast.
 I am accessible via Discord (Jurassic#1119) and Twitter (@FighterJurassic).
 
 <div align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jurassic-Fighter&hide=python&layout=compact&theme=github_dark"></a>
-</div>
 
+[![Jurassic's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jurassic-Fighter&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jurassic-Fighter&theme=onedark&layout=compact&hide=roff,makefile)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+    
 <!--
 **Jurassic-Fighter/Jurassic-Fighter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
