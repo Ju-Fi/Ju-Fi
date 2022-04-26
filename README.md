@@ -9,9 +9,9 @@ I am accessible via Discord (Jurassic#1119) and Twitter (@FighterJurassic).
 
 <div align="center">
 
-[![Jurassic's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jurassic-Fighter&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Jurassic's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ju-Fi&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jurassic-Fighter&theme=onedark&layout=compact&hide=roff,makefile)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ju-Fi&theme=onedark&layout=compact&hide=roff,makefile)](https://github.com/anuraghazra/github-readme-stats)
 </div>
     
 <!--
