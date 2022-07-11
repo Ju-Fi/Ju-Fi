@@ -1,6 +1,6 @@
 ### Hallo 👋
 I am an aspiring software engineer who is currently a sophomore in high school. 
-I'm familiar with Java, Python and C, and currently learning Clojure.
+I'm familiar with Java, Python and C, and currently learning Clojure and Common Lisp.
 I'm also a Linux and OSS enthusiast.
 
 **Pronouns:** he/him
