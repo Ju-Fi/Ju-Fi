@@ -1,11 +1,11 @@
 ### Hallo 👋
-I am an aspiring software engineer who is currently a sophomore in high school. 
-I'm familiar with Java, Python and C, and currently learning Clojure and Common Lisp.
+I am an aspiring software engineer who is currently a Junior in high school. 
+I am familiar with Java, Python and C, and currently learning Clojure and Common Lisp.
 I'm also a Linux and OSS enthusiast.
 
 **Pronouns:** he/him
 
-I am accessible via Discord (Jurassic#1119) and Twitter (@FighterJurassic).
+I am accessible via Discord (Jurassic#1119).
 
 <div align="center">
 
