@@ -5,7 +5,7 @@ I'm also a Linux and OSS enthusiast.
 
 **Pronouns:** he/him
 
-I am accessible via Discord (Jurassic#1119).
+I am accessible via Discord (`.jufi.`).
 
 <div align="center">
 
