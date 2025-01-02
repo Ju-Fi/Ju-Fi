@@ -1,7 +1,7 @@
 ### Hallo 👋
-I am an aspiring software engineer who is currently a Junior in high school. 
-I am familiar with Java, Python and C, and currently learning Clojure and Common Lisp.
-I'm also a Linux and OSS enthusiast.
+Computer Science student and aspiring software engineer.
+Familiar with C, Java, Python, and Common Lisp.
+Linux enthusiast.
 
 **Pronouns:** he/him
 
